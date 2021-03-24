@@ -1,0 +1,39 @@
+---
+title: "emplyment"
+---
+
+# Employment History
+
+<hr/>
+
+## Present job....
+
+### Title of the Job - 1974 to Present :)
+
+This is a job description...
+
+<hr/>
+
+## Job before that...
+
+### Title of the Job - 1974 to Present :)
+
+This is a job description...
+
+<hr/>
+
+## Etc...
+
+### Title of the Job - 1974 to Present :)
+
+This is a job description...
+
+<hr/>
+
+
+
+
+
+
+
+

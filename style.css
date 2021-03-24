@@ -86,6 +86,7 @@ hr {
   border-top-color: rgb(236, 240, 241);
 }
 
-
+.author,.title{
+    display: none;
 
 
