@@ -10,19 +10,9 @@ title: "references"
 
 Reference description about who they are to you and what they know about your skills and ambitions.
 
-<a href="mailto:referenceemail@reference.com">referenceemail@reference.com</a>
+<a style="font-size:18px;" href="mailto:referenceemail@reference.com">referenceemail@reference.com</a>
 
-#### (480) 330-9222
-
-<hr/>
-
-## Reference Name
-
-Reference description about who they are to you and what they know about your skills and ambitions.
-
-<a href="mailto:referenceemail@reference.com">referenceemail@reference.com</a>
-
-#### (480) 330-9222
+##### (480) 330-9222
 
 <hr/>
 
@@ -30,9 +20,19 @@ Reference description about who they are to you and what they know about your sk
 
 Reference description about who they are to you and what they know about your skills and ambitions.
 
-<a href="mailto:referenceemail@reference.com">referenceemail@reference.com</a>
+<a style="font-size:18px;" href="mailto:referenceemail@reference.com">referenceemail@reference.com</a>
 
-#### (480) 330-9222
+##### (480) 330-9222
+
+<hr/>
+
+## Reference Name
+
+Reference description about who they are to you and what they know about your skills and ambitions.
+
+<a style="font-size:18px;" href="mailto:referenceemail@reference.com">referenceemail@reference.com</a>
+
+##### (480) 330-9222
 
 <hr/>
 

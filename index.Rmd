@@ -9,7 +9,7 @@ title: "index.html"
   <div class="column" style="padding-top:20px;">
 # Sheila Martinez
 
-  <p style="font-size:14px;font-weight: bold;color:black;padding:0px;">Instructor</p>
+  <p style="font-size:14px;font-weight: bold; padding:0px;">Instructor</p>
   
   
   </div>

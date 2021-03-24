@@ -1,5 +1,5 @@
 
-
+/*
 .title{
   color: black;
 }
@@ -29,6 +29,7 @@ h3{
   font-size:16pt;
   font-weight: bold;
 }
+*/
 
 img {
   padding: 10px;
@@ -88,5 +89,17 @@ hr {
 
 .author,.title{
     display: none;
+
+
+a {
+  font-size: 16px;
+}
+
+#div.section.section.level4 h4 {
+  
+  font-size: 8px;
+  
+  
+}
 
 
