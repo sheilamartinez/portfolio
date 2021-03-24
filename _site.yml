@@ -1,0 +1,25 @@
+name: "Peter EerNisse"
+output_dir: "."
+navbar:
+  title: "Peter EerNisse"
+  left:
+    - text: "About Me"
+      href: index.html
+      
+    - text: "Employment History"
+      href: employment.html
+    
+    - text: "Projects"
+      href: projects.html
+      
+    - text: "Data Products"
+      href: products.html
+      
+    - text: "References"
+      href: references.html
+      
+      
+output:
+  html_document:
+    theme: flatly
+    css: style.css
